@@ -1,6 +1,6 @@
 # AI for Classifying Dogs and Cats Pictures
 
-The present notebook makes use of deep learning applied to computational vision for classifying images of cats and dogs. Such artificial intelligence software was trained on about 700 images of cats and dogs and through a sequential neural network built using Keras, as a result it presented an accuracy of approximately 65%.
+The present notebook makes use of deep learning applied to computational vision for classifying images of cats and dogs. Such artificial intelligence software was trained on about 700 images of cats and dogs using a sequential neural network built using Keras, as a result it presented an accuracy of approximately 65%.
 
 The data used on the training may be accessed on:
 
