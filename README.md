@@ -8,4 +8,4 @@ https://www.kaggle.com/datasets/samuelcortinhas/cats-and-dogs-image-classificati
 
 Note:
 
-It is still a work in progress, the network's architecture will be revisited. 
+It is still a work in progress.
